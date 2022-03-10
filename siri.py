@@ -1,1 +1,1 @@
-print('Halo Siri')
+print('Halo Siri, Aku suka kamu :D')
